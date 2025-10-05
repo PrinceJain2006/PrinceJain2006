@@ -1,60 +1,90 @@
-# 👋 Hello, I’m **Prince Jain**
+<!-- ============================== -->
+<!--   ⚡ PRINCE JAIN - README ⚡    -->
+<!-- ============================== -->
 
-I’m a passionate developer exploring **AI / ML / Automation / LangChain**.  
-I build tools, learn continuously, and love open-source.
+<pre align="center">
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+</pre>
+
+---
+
+<h2 align="center">👋 Hey, I'm <strong>Prince Jain</strong> — AI/ML Developer & Open-Source Enthusiast</h2>
+
+<p align="center">
+  💡 Turning ideas into intelligent systems <br>
+  🚀 Passionate about <b>Machine Learning, LangChain, and AI Agents</b> <br>
+  🧠 Always learning, building, and sharing knowledge.
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)  
-![LangChain](https://img.shields.io/badge/LangChain-%2300C7B7.svg?logo=chainlink&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/LangChain-%2300C7B7.svg?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
-- **[DAa](https://github.com/PrinceJain2006/DAa)** — Data analytics & science utilities  
-- **[N8N Agentic AI](https://github.com/PrinceJain2006/N8N-AGENTIC-AI-build-ai-agent)** — Automation + AI workflows  
-- **[Face Controlled Virtual Keyboard](https://github.com/PrinceJain2006/Face-Controlled-Virtual-Keyboard-)** — Interface controlled by facial gestures  
-- **[LangChain Experiments](https://github.com/PrinceJain2006/Langchain)** — Tools & demos around LangChain  
+| Project | Description |
+|----------|--------------|
+| 🧠 [DAa](https://github.com/PrinceJain2006/DAa) | Data Analytics & AI Utilities |
+| 🤖 [N8N Agentic AI](https://github.com/PrinceJain2006/N8N-AGENTIC-AI-build-ai-agent) | Automation with AI Agents |
+| 🕹️ [Face Controlled Keyboard](https://github.com/PrinceJain2006/Face-Controlled-Virtual-Keyboard-) | Facial Expression-Based Keyboard |
+| 🔗 [LangChain Experiments](https://github.com/PrinceJain2006/Langchain) | LangChain Demos & Tools |
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrinceJain2006&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=PrinceJain2006&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceJain2006&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🌐 Contact & Find Me
+## 🌐 Connect with Me
 
-- **Email**: your.email@example.com  
-- **LinkedIn**: your-linkedin-url  
-- **Portfolio / Blog**: your-website.com  
-
----
-
-> “Crafting intelligent systems, one commit at a time.”  
+<p align="center">
+  <a href="mailto:princejjain566@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prince-jain-753579328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/PrinceJain2006"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🔧 How to Use This Template
+<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
 
-1. Create a repository with the exact name of your GitHub username (e.g. `PrinceJain2006`).  
-2. Put this README content into its `README.md`.  
-3. Add or update your links, projects, stack.  
-4. Tag & pin your best repos on your GitHub profile.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrinceJain2006&color=blueviolet&style=for-the-badge" alt="profile views" />
+</p>
 
----
-
-If you like, I can also convert this into a version with **your ASCII art header + contact links** (hybrid style) and send you the final markdown. Do you want me to generate that right away?
-::contentReference[oaicite:0]{index=0}
